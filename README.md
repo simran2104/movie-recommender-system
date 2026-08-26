@@ -4,11 +4,9 @@ A **content-based movie recommendation system** built with Python and Streamlit.
 
 ## 🌐 Demo
 
-Try the live application:
-
-👉 **[Movie Recommender System]()**
-
-Select a movie and get recommendations based on its content and metadata.
+<p align="center">
+  <img src="assets/Movie-Recommender-Demo.gif" alt="Movie Recommender Demo" width="700">
+</p>
 
 ## 📌 Project Overview
 
